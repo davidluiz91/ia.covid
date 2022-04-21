@@ -8,7 +8,7 @@ modelo.fit(atv.atributos, atv.resultados)
 
 # entrada
 febre = int(input("Apresenta febre? "))
-cansaco = int(input("Apresenta Cansaso? "))
+cansaco = int(input("Apresenta Cansaço? "))
 tosse = int(input("Apresenta tosse seca? "))
 espirro = int(input("Apresenta Espirro? "))
 corpo = int(input("Apresenta dor no corpo?"))
